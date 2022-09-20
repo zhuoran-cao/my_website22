@@ -11,6 +11,11 @@ date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
 ```{r}
-knitr::include_graphics("/img/pic07.jpg",error=FALSE)
+# knitr::include_graphics("/img/pic07.jpg",error=FALSE)
 ```
 
+Hi! My name is Zhuoran, and I am a technology consultant passionate about helping enterprises advance in digital transformation journey and unlock business values around data and technologies. 
+
+My experience spans data analytics, BI, AI/ML, quality assurance, change management, product management, marketing, and end-to-end delivery of complex digital transformation projects. She has industry expertise in Pharma, Tech, Car Rental, Retail, and Public Sector and has supported Fortune 500, government, and start-up clients with key digital initiatives.
+
+After two years in technology consulting, I would like to dive deeper into the analytics world and equip myself with more hands-on tech skills, such as R. On this website you can see several R projects that I recently worked on, so check it out!
