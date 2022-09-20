@@ -1,6 +1,6 @@
 ---
 title: "My Footprint"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
+description: ""
 slug: "Myfootprint"
 image: pic01.jpg
 keywords: ""
@@ -11,6 +11,6 @@ date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
 ```{r}
-knitr::include_graphics("/img/pic0.jpg",error=FALSE)
+knitr::include_graphics("/img/pic07.jpg",error=FALSE)
 ```
 
