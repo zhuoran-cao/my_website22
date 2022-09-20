@@ -11,7 +11,7 @@ date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
 ```{r}
-knitr::include_graphics("/img/pic08.jpg",error=FALSE)
+# knitr::include_graphics("/img/pic08.jpg",error=FALSE)
 ```
 
 Outside of work and study, I enjoy practice Chinese calligraphy, cooking, and kayaking. I am an avid Chinese calligrapher with 12 years of experience. I founded the first calligraphy club in my high school and college, and have taught over 40 people Chinese calligraphy over time.
