@@ -37,8 +37,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Zhuoran Cao's Space"
+    subtitle = "My R Projects and More"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -81,9 +81,9 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, welcome to Zhuoran's website"
-    subtitle = "Common space where I share my background, passions, and projects."
-    buttonText = "Get Started"
+    title = "Hi, welcome to my website"
+    subtitle = "Common space where I share my background, passions, and R projects."
+    buttonText = "Dive In"
 
 
   # Tiles Section
@@ -95,19 +95,19 @@ disqusShortname = ""
       title = "My Footprint"
       subtitle = "Click to know more about my education and work experience that spans 3 countries and 4 cities"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/Myfootprint"
 
     [[params.tiles.showcase]]
       title = "My Passions"
       subtitle = "My hobbies and career aspirations"
       image = "pic02.jpg"
-      url = "blogs/tempus"
+      url = "blogs/Mypassions"
 
     [[params.tiles.showcase]]
       title = "My Projects"
       subtitle = "A quick look at my project work"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/Myprojects"
 
     [[params.tiles.showcase]]
       title = "Project 1"
