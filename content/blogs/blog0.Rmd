@@ -11,7 +11,7 @@ date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
 ```{r}
-# knitr::include_graphics("/img/pic07.jpg",error=FALSE)
+knitr::include_graphics("/img/pic07.jpg",error=FALSE)
 ```
 
 Hi! My name is Zhuoran, and I am a technology consultant passionate about helping enterprises advance in digital transformation journey and unlock business values around data and technologies. 
