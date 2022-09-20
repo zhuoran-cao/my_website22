@@ -113,7 +113,7 @@ disqusShortname = ""
       title = "Project 1"
       subtitle = "Biden's Approval Margins"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/Project1"
 
     [[params.tiles.showcase]]
       title = "Project 2"

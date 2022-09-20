@@ -1,7 +1,7 @@
 ---
 title: "Project 1"
 description: ""
-slug: "Project 1"
+slug: "Project1"
 image: pic04.jpg
 keywords: ""
 categories: 
