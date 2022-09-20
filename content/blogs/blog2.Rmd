@@ -10,7 +10,7 @@ categories:
 date: 2017-10-31T22:26:09-05:00
 draft: false
 ---
-```{r, setup, echo=FALSE}
+```{r, setup}
 knitr::opts_chunk$set(
   message = FALSE, 
   warning = FALSE, 
@@ -26,7 +26,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-```{r load-libraries, warning=FALSE, message=FALSE, echo=FALSE}
+```{r load-libraries, warning=FALSE, message=FALSE}
 library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
 library(mosaic)
 library(ggthemes)
