@@ -128,6 +128,12 @@ disqusShortname = ""
       url = "blogs/Project3"
     # You can make more showcases by copy and pasting the code above
 
+    [[params.tiles.showcase]]
+      title = "Project 4"
+      subtitle = "Risk return"
+      image = "pic06.jpg"
+      url = "blogs/risk_return"
+      
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
     # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
