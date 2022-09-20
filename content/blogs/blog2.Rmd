@@ -1,6 +1,6 @@
 ---
 title: "Project 2"
-description: "Lorem Etiam Nullam"
+description: ""
 slug: "Project2"
 image: pic05.jpg
 keywords: ""
