@@ -40,18 +40,6 @@ library(tidyquant)
 
 # IMDB ratings: Differences between directors
 
-Recall the IMBD ratings data. I would like you to explore whether the mean IMDB rating for Steven Spielberg and Tim Burton are the same or not. I have already calculated the confidence intervals for the mean ratings of these two directors and as you can see they overlap.
-
-```{r directors, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("Homework 3", "directors.png"), error = FALSE)
-```
-
-First, I would like you to reproduce this graph. You may find `geom_errorbar()` and `geom_rect()` useful.
-
-In addition, you will run a hpothesis test. You should use both the `t.test` command and the `infer` package to simulate from a null distribution, where you assume zero difference between the two.
-
-> Before anything, write down the null and alternative hypotheses, as well as the resulting test statistic and the associated t-stat or p-value. At the end of the day, what do you conclude?
-
 > Null hypothesis: The average rating of Steve Spielberg's movies is the same as that of Tim Burton's. 
 Alternative hypothesis: The average rating of Steve Spielberg's movies is different from that of Tim Burton's
 
