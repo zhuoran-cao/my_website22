@@ -10,6 +10,34 @@ categories:
 date: 2017-10-31T22:26:09-05:00
 draft: false
 ---
+```{r, setup, echo=FALSE}
+knitr::opts_chunk$set(
+  message = FALSE, 
+  warning = FALSE, 
+  tidy=FALSE,     # display code as typed
+  size="small")   # slightly smaller font for code
+options(digits = 3)
+
+# default figure size
+knitr::opts_chunk$set(
+  fig.width=6.75, 
+  fig.height=6.75,
+  fig.align = "center"
+)
+```
+
+```{r load-libraries, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
+library(mosaic)
+library(ggthemes)
+library(lubridate)
+library(here)
+library(skimr)
+library(janitor)
+library(vroom)
+library(tidyquant)
+```
+
 # IMDB ratings: Differences between directors
 
 Recall the IMBD ratings data. I would like you to explore whether the mean IMDB rating for Steven Spielberg and Tim Burton are the same or not. I have already calculated the confidence intervals for the mean ratings of these two directors and as you can see they overlap.
@@ -30,7 +58,7 @@ Alternative hypothesis: The average rating of Steve Spielberg's movies is differ
 You can load the data and examine its structure
 
 ```{r load-movies-data}
-movies <- read_csv("movies.csv")
+movies <- read_csv(here::here("data","movies.csv"))
 glimpse(movies)
 ```
 

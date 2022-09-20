@@ -14,8 +14,8 @@ draft: false
 knitr::include_graphics("/img/pic07.jpg",error=FALSE)
 ```
 
-Hi! My name is Zhuoran, and I am a technology consultant passionate about helping enterprises advance in digital transformation journey and unlock business values around data and technologies. 
+Hi! My name is Zhuoran. I grew up in Xi'an, China, a beautiful city full of history and culture. In the middle of this picture collage is Dayanta, which was built more than 1,500 years ago in Tang Dynasty. It is one of the most famous landmarks in my city.
 
-My experience spans data analytics, BI, AI/ML, quality assurance, change management, product management, marketing, and end-to-end delivery of complex digital transformation projects. She has industry expertise in Pharma, Tech, Car Rental, Retail, and Public Sector and has supported Fortune 500, government, and start-up clients with key digital initiatives.
+Currently I am a student studying at London Business School. Prior to LBS, I worked as a technology consultant in New York after graduating from Tufts University in Boston. 
 
 After two years in technology consulting, I would like to dive deeper into the analytics world and equip myself with more hands-on tech skills, such as R. On this website you can see several R projects that I recently worked on, so check it out!
