@@ -42,7 +42,7 @@ library(tidyquant)
 # Returns of financial stocks
 
 ```{r load_nyse_data, message=FALSE, warning=FALSE}
-nyse <- read_csv("nyse.csv")
+nyse <- read_csv(here::here("data","nyse.csv"))
 
 ```
 
